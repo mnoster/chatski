@@ -24,7 +24,6 @@ func (c *client) read() {
 		}
 	}
 	c.socket.Close()
-
 }
 
 func (c *client) write() {
