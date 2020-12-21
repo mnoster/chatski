@@ -13,4 +13,7 @@ go build
 
 ./chat
 
+// Visit localhost:8080/login
+// --> chat available @ /chat
+
 ```
